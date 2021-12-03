@@ -8,7 +8,7 @@ My solutions to the ['Advent of Code 2021'](https://adventofcode.com/2021/) puzz
 | ------------- |:------:|:----------------:|
 | [Day 01][d01] | 🌟 | 🌟 |
 | [Day 02][d02] | 🌟 | 🌟 |
-| [Day 03][d03] |  |  |
+| [Day 03][d03] | 🌟 | 🌟 |
 | [Day 04][d04] |  |  |
 | [Day 05][d05] |  |  |
 | [Day 06][d06] |  |  |
