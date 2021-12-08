@@ -13,7 +13,7 @@ My solutions to the ['Advent of Code 2021'](https://adventofcode.com/2021/) puzz
 | [Day 05][d05] | 🌟 | 🌟 |
 | [Day 06][d06] | 🌟 | 🌟 |
 | [Day 07][d07] | 🌟 | 🌟 |
-| [Day 08][d08] |  |  |
+| [Day 08][d08] | 🌟 | 🌟 |
 | [Day 09][d09] |  |  |
 | [Day 10][d10] |  |  |
 | [Day 11][d11] |  |  |
