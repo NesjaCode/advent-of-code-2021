@@ -18,7 +18,7 @@ My solutions to the ['Advent of Code 2021'](https://adventofcode.com/2021/) puzz
 | [Day 10][d10] | 🌟 | 🌟 |
 | [Day 11][d11] | 🌟 | 🌟 |
 | [Day 12][d12] | 🌟 | 🌟 |
-| [Day 13][d13] |  |  |
+| [Day 13][d13] | 🌟 | 🌟 |
 | [Day 14][d14] |  |  |
 | [Day 15][d15] |  |  |
 | [Day 16][d16] |  |  |
